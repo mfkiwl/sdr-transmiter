@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: rep.aux
+The style file: plain.bst
+Database file #1: rep.bib
+Warning--empty journal in gnssSdr
+Warning--empty year in gnssSdr
+Warning--empty publisher in gpsPrin
+Warning--empty year in gpsPrin
+Warning--empty journal in gpsSdrSim
+Warning--empty year in gpsSdrSim
+Warning--empty journal in gpsSdrSimFork
+Warning--empty year in gpsSdrSimFork
+You've used 4 entries,
+            2118 wiz_defined-function locations,
+            510 strings with 4284 characters,
+and the built_in function-call counts, 892 in all, are:
+= -- 76
+> -- 34
+< -- 0
++ -- 14
+- -- 10
+* -- 52
+:= -- 164
+add.period$ -- 11
+call.type$ -- 4
+change.case$ -- 16
+chr.to.int$ -- 0
+cite$ -- 12
+duplicate$ -- 42
+empty$ -- 74
+format.name$ -- 10
+if$ -- 171
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 5
+newline$ -- 22
+num.names$ -- 8
+pop$ -- 33
+preamble$ -- 1
+purify$ -- 13
+quote$ -- 0
+skip$ -- 24
+stack$ -- 0
+substring$ -- 20
+swap$ -- 1
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 14
+warning$ -- 8
+while$ -- 8
+width$ -- 5
+write$ -- 36
+(There were 8 warnings)

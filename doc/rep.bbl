@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+
+\bibitem{gnssSdr}
+gnsssdr.
+\newblock gnsssdr.
+\newblock https://github.com/gnss-sdr/gnss-sdr.
+
+\bibitem{gpsPrin}
+Elliott~D. Kaplan and Christopher Hegarty.
+\newblock {\em Understanding GPS: Principles and Applications, Second Edition}.
+
+\bibitem{gpsSdrSim}
+osqzss.
+\newblock gpssdrsim.
+\newblock https://github.com/osqzss/gps-sdr-sim.
+
+\bibitem{gpsSdrSimFork}
+osqzss.
+\newblock gpssdrsim.
+\newblock https://github.com/sundw2014/gps-sdr-sim/tree/sundw.
+
+\end{thebibliography}
